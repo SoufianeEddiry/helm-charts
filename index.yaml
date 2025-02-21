@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hps-app:
+  - apiVersion: v2
+    appVersion: "1.27"
+    created: "2025-02-21T12:25:42.739546+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 54332bc011d7376ab21a1e5ce862e99c05dde91a0788fe9ad45bf867ec0b5a96
+    name: hps-app
+    type: application
+    urls:
+    - hps-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-21T12:25:42.739232+01:00"
